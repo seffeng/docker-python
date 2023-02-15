@@ -2,7 +2,7 @@
 
 ## 版本说明
 
-* [3.9.13 , latest](https://github.com/seffeng/docker-python/tree/3.9)
+* [3.10 , 3.10.10 , latest](https://github.com/seffeng/docker-python/tree/3.9)
 
 ## 常用命令：
 
