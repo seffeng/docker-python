@@ -1,4 +1,4 @@
-FROM seffeng/alpine:3.17
+FROM seffeng/alpine:3.15
 
 ENV EXTEND="python3 py3-pip"
 
